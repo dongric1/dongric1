@@ -18,7 +18,7 @@
 
 - 👀 I’m interested in data analytics, machine learning, AI and Marketing.
 
-- 🔭 I’m currently working on projects involving data analysis and web development. <!-- - 🌱 I’m currently learning Python for data science and automation. -->
+- 🔭 I’m currently working on projects involving data analysis. <!-- - 🌱 I’m currently learning Python for data science and automation. -->
 
 - 🖥️ My portfolio Website at <a href="https://dongric1.github.io/#intro" target="blank">Here</a> <i>🚧 Pardon the dust! This page is still under construction.</i> <!-- - 💼 I’m currently looking for Internship as a  - 📄 This is <a href="nuorododa į resume">My Resume</a> (<i>Indonesian & English Version</i>) -->
 
