@@ -1,3 +1,5 @@
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
 <!-- Intro  -->
@@ -6,6 +8,7 @@
                 <b><a target="_blank" href="https://dongric1.github.io/">Donatas Gricius</a></b>
         </samp>
 </h1>
+
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width = 50px></picture> **About me**
 
@@ -20,6 +23,7 @@
 - 🖥️ My portfolio Website at <a href="https://dongric1.github.io/#intro" target="blank">Here</a> <i>🚧 Pardon the dust! This page is still under construction.</i> <!-- - 💼 I’m currently looking for Internship as a  - 📄 This is <a href="nuorododa į resume">My Resume</a> (<i>Indonesian & English Version</i>) -->
 
 - 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/donatas-gricius001/) or check out my [GitHub](https://github.com/dongric1?tab=repositories) repositories!
+
 
 <br/>
 <br/>
@@ -56,4 +60,9 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
 <br/>
+
+
+**Views:** 
+
+![Visitor Count](https://profile-counter.glitch.me/{dongrici1}/count.svg)
 
