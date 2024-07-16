@@ -67,7 +67,4 @@
 <br/>
 
 
-**Views:** 
-
-![Visitor Count](https://profile-counter.glitch.me/{dongrici1}/count.svg)
 
