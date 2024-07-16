@@ -18,7 +18,7 @@
 
 - 👀 I’m interested in data analytics and Marketing.
 
-- 🔭 I’m currently working on projects involving data analysis. <!-- - 🌱 I’m currently learning Python for data science and automation. -->
+- 🔭 I’m currently working on projects involving data analysis. <!-- - 🌱 I’m currently learning Python -- soon. -->
 <!-- - 🖥️ My portfolio Website at <a href="https://dongric1.github.io/" target="blank">Here</a> <i>🚧 Pardon the dust! This page is still under construction.</i> <!-- - 💼 I’m currently looking for Internship as a  - 📄 This is <a href="nuorododa į resume">My Resume</a> (<i> & English Version</i>)  -->
 
 - 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/donatas-gricius001/) or check out my [GitHub](https://github.com/dongric1?tab=repositories) repositories!
