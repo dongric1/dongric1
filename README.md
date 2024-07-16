@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,mysql,notion,postgres,excel" /> PowerBI
+    <img src="https://skillicons.dev/icons?i=discord,github,mysql,notion,excel" /> PowerBI
   </a>
 </p>
 
