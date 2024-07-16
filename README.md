@@ -16,7 +16,7 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 </a>
 
-- 👀 I’m interested in data analytics, machine learning, AI and Marketing.
+- 👀 I’m interested in data analytics and Marketing.
 
 - 🔭 I’m currently working on projects involving data analysis. <!-- - 🌱 I’m currently learning Python for data science and automation. -->
 
