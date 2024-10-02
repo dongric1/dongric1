@@ -13,7 +13,7 @@
 ## Technical Toolkit
 - **SQL:** Google BigQuery
 - **Data Visualization:** PowerBI, Google Data Studio
-- **Python:** Currently independently learning Python for data analysis, web scrapping.
+- **Python:** Currently learning Python for data analysis.
 
 
 ## Education
@@ -37,7 +37,7 @@
 
 <div align="left"  class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/donatas-gricius001/"><img src="https://img.icons8.com/?size=50&id=60ZV_wYC0BM2&format=png&color=000000"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://medium.com/@wnkkfmdykv"><img src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://medium.com/@dongric"><img src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png"></a>
 
 
 
