@@ -1,4 +1,5 @@
-## **Hey, I'm Donatas Gricius 👋**
+![Banner](https://github.com/user-attachments/assets/da38bad8-2286-4acb-9a42-a3da177d74c4)
+
 
 ## About Me
 
@@ -31,12 +32,10 @@
 
 <!--- Connect  -->
 <br/>
-<h2 align="left"> Connect with me: </h2>
+<h2 align="left">Find me on: </h2>
  
-
-<div align="left"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/donatas-gricius001/"><img src="https://img.icons8.com/?size=50&id=60ZV_wYC0BM2&format=png&color=000000"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://medium.com/@dongric"><img src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png"></a>
+<p><a href="https://github.com/dongric1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/donatas-gricius001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dongric" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 
 
@@ -47,3 +46,5 @@
 <h4 align="center">
   <a href="https://github.com/dongric1?tab=repositories" title="Show Repositories">🔎 Show all Repositories 🔍</a>
 </h4>
+
+
