@@ -21,7 +21,7 @@
   
 *The program focused on market research, pricing, logistics, communication, and initiating various marketing activities. For more details, visit the [Vilnius University Global Marketing Program](https://www.vu.lt/en/studies/bachelor-and-integrated-studies/global-marketing).*
 
-- Data Analytics at Turing College (Mar 2024 – Present).
+- Data Analytics at Turing College (Mar 2024 – Mar 2025).
   
 *The program provides essential skills and tools for data analytics, including structured data analysis, pattern identification, and data visualization. It covers the use of spreadsheets, SQL, Power BI, and Tableau for creating interactive dashboards. In addition analysing customer behavior, e-commerce, and value, and use of techniques like A/B testing and regression models. For more details, visit the [Turing College Data Analytics Program](https://www.turingcollege.com/data-analytics).*
 
